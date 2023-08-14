@@ -1,0 +1,45 @@
+
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #565656;
+  background-color: #c6c6c6;
+  border-bottom: 3px solid #f2251d;
+  line-height: normal;
+}
+
+.container-img-list{
+  margin: 10px auto;
+  position: center;
+  overflow: right;
+  width: 100%;
+  min-height: 250px;
+  border-bottom: 3px solid #f2251d;
+}
+.title-ofertas{
+  border-bottom: 3px solid #f2251d;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  color: #232323;
+  
+}
+
+.link-oferta{
+    display: 'block';
+    border-radius: '1px';
+    margin: '10px 0px';
+    background-image: '-moz-linear-gradient( 90deg, rgb(179,39,33) 0%, rgb(231,36,28) 60%)';
+    box-shadow: 'inset 0px 2px 0px 0px rgba(255, 255, 255, 0.65)';
+    height: '40px';
+    line-height: '40px',;
+    font-size: '14px';
+    font-weight: 'bold';
+    text-align: 'center';
+    color: '#fff';
+    clear: 'both';
+    background-color: #f2251d;
+}
+
